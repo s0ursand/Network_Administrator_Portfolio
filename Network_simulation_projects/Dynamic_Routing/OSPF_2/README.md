@@ -114,5 +114,5 @@ Use the same command for all the other routers
 ![R4 routing table](Images/R4_routing_table.png)
 
 ## Conclusion
-The lab involved configuring OSPF across multiple routers, including setting up hostnames, IP addresses, and loopback interfaces. Key tasks included enabling OSPF on router interfaces, configuring R1 as an ASBR to advertise a default route, and verifying the routing tables and OSPF Hello messages exchanged between routers.
+The lab involved configuring OSPF across multiple routers, including setting up hostnames, IP addresses, and loopback interfaces. Key tasks included enabling OSPF on router interfaces, configuring R1 as an ASBR to advertise a default route, and verifying the routing tables.
 
