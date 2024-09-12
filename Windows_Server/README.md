@@ -8,7 +8,7 @@ Windows Server is a robust operating system tailored for managing networking, ap
 
 - [**DHCP Server Management**](DHCP_Server_Management/README.md): Instructions for configuring and managing a Dynamic Host Configuration Protocol (DHCP) server to automate the assignment of IP addresses within a network.
 
-- **Active Directory Management**: Comprehensive procedures for installing and managing Active Directory, including user and group management, organizational units, and Group Policy Objects (GPOs).
+- [**Active Directory Management**](Active_Directory/README.md): Comprehensive procedures for installing and managing Active Directory, including user and group management, organizational units, and Group Policy Objects (GPOs).
 
 - **Firewall Management**: Techniques for configuring and managing Windows Firewall to protect the network from unauthorized access while permitting legitimate traffic.
 
